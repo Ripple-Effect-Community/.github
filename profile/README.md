@@ -1,7 +1,7 @@
 ## Welcome to the Ripple Community 🎊 
 
-One of the best way to learn a new language or framework is to build something with it and also, one of the key qualities every company wants in their oranization is team work.
-Here is Ripple Community, we want to create a safe space for developers and non-developers to collaborate and build solutions to real world problms.
+One of the best way to learn a new programming language or framework is to build something with what you are learning and also a key quality every organization wants in a developer is team work.
+Here in Ripple Community, we want to create a safe space for developers and non-developers to collaborate and build solutions to real world problems using what they know.
 <!--
 
 **Here are some ideas to get you started:**
